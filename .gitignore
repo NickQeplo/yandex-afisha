@@ -1,0 +1,15 @@
+# Секреты
+.env
+
+# Виртуальное окружение
+my_venv/
+
+# Экспорты и кэш
+*.html
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Служебные файлы ОС
+.DS_Store
+Thumbs.db
